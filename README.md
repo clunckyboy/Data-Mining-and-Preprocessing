@@ -1,2 +1,2 @@
 # Data-Mining-and-Preprocessing
-Small project to practice data mining and preprocessing
+This repository contains my small project to practice data mining and preprocessing
